@@ -1,0 +1,15 @@
+{
+	"name": "example.package",
+	"unity": "2018.3",
+	"version": "0.0.1-preview",	
+	"displayName": "Example Package",
+	"author": "Isaiah Kelly",
+	"description": "This is a simple example to show you how to create custom packages that can be installed through the Unity Package Manager introduced in 2018.1.",
+	"keywords": ["example", "test", "demo"],
+	"category": "examples",	
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IsaiahKelly/UnityPackageExample.git"
+	}
+}
