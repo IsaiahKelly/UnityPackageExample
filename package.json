@@ -11,5 +11,17 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/IsaiahKelly/UnityPackageExample.git"
+	},
+	"Samples": [
+	{
+		 "displayName": "Sample Name 1",
+		 "description": "Description for sample 1",
+		 "path": "Samples~/Sample Folder 1"
+	},
+	{
+		 "displayName": "Sample Name 2",
+		 "description": "Description for sample 2",
+		 "path": "Samples~/Sample Folder 2"
 	}
+	]
 }
