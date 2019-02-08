@@ -1,0 +1,6 @@
+# Stuff that is ignored by the package.
+artifacts/**
+build/**
+Documentation/ApiDocs/**
+.npmignore
+.gitignore
